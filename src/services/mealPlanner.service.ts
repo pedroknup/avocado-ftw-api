@@ -1,7 +1,6 @@
 /* eslint-disable import/extensions */
 import { DBService } from './db.service'
 import { calculateDayMacros } from '../utils/calculateDayMacros'
-// import credentials from '../credentials.json'
 import ConnectionManager from './managers/connection.manager'
 import { Config } from '../config'
 import { IFood } from 'src/models/IFood'

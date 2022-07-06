@@ -1,5 +1,3 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-// import { getUserMeta, getUserWeekPlan, refreshUserRelatedData } from 'src/controllers/mealPlanner.controller'
 import express from 'express'
 import { userValidatorMiddleware } from '../middlewares/mealPlanner.middleware'
 import {

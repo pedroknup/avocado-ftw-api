@@ -1,5 +1,3 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-// import { getUserMeta, getUserWeekPlan, refreshUserRelatedData } from 'src/controllers/mealPlanner.controller'
 import express from 'express'
 import { refreshUsersController, getUserController } from '../controllers/admin.controller'
 
